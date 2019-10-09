@@ -10,4 +10,4 @@ if __name__ == "__main__":
 
     x = int(args.xarg)
 
-    logging.warning(f' X^2 = {x ** 2}')
+    logging.warning(f' X^2 = {x ** 2}!')
